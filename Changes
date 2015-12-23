@@ -1,5 +1,11 @@
 Revision history for Bencher-Scenarios-Perinci
 
+0.02    2015-12-23 (PERLANCAR)
+
+	- Rename dist from Bencher-Scenario-Perinci to
+	  Bencher-Scenarios-Perinci.
+
+
 0.01    2015-12-23 (PERLANCAR)
 
         - First release.
