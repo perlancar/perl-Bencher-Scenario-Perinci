@@ -1,4 +1,4 @@
-package Bencher::Scenario::Perinci::EnvRes;
+package Bencher::Scenario::PerinciEnvRes;
 
 # DATE
 # VERSION

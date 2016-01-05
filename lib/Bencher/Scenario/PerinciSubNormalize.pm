@@ -1,4 +1,4 @@
-package Bencher::Scenario::Perinci::Sub::Normalize;
+package Bencher::Scenario::PerinciSubNormalize;
 
 # DATE
 # VERSION
