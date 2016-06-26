@@ -5,6 +5,9 @@ package Bencher::Scenario::PerinciSubNormalize;
 
 our $scenario = {
     summary => 'Benchmark normalizing Rinci function metadata',
+    modules => {
+        'Perinci::Sub::Normalize' => {version=>0.18},
+    },
     participants => [
         {
             fcall_template => 'Perinci::Sub::Normalize::normalize_function_metadata(<meta>)'
